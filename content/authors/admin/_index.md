@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include statistical ecology, Bayesian statistics, time series and state-space models. I collaborate on many shark telemetry projects.
+bio: My research interests include statistical ecology, Bayesian statistics, time series, state-space and spatio-temporal models. I also collaborate on many shark telemetry projects.
 education:
   courses:
   - course: PhD in Statistics
@@ -15,9 +15,10 @@ interests:
 - Statistical Ecology
 - Bayesian Statistics
 - Time Series
-name: Vianey Leos Barajas 
+- Spatio-temporal Models
+name: Vianey Leos Barajas, PhD 
 organizations:
-- name: Iowa State University
+- name: North Carolina State University
   url: ""
 role: 
 social:
@@ -33,6 +34,6 @@ user_groups:
 - Visitors
 ---
 
-I am a statistician primarily interested in working on Bayesian statistics and time series models. In particularly, how these methods can be applied in the field of statistical ecology to understand drivers of animal movement. 
+I am a statistician primarily interested in working on Bayesian statistics, time series and spatio-temporal models. Currently, I hold a postdoctoral position in the Department of Forestry and Environmental Resources & Department of Statistics at North Carolina State University. 
 
 Collaborative projects bring me loads of joy. So, while I am formally trained in mathematics and statistics, I'm likely to be working closely with marine biologists (esp. those who work with sharks) often and on many projects. 
