@@ -10,7 +10,7 @@ education:
   - course: BSc in Mathematics
     institution: California State University, Bakersfield
     year: 2011
-email: ""
+email: "vcleosba@ncsu.edu"
 interests:
 - Statistical Ecology
 - Bayesian Statistics
