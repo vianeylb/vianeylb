@@ -20,8 +20,11 @@ name: Vianey Leos Barajas, PhD
 organizations:
 - name: North Carolina State University
   url: ""
-role: 
+role: Postdoctoral Researcher
 social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/vianeylb
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/vianey_lb
