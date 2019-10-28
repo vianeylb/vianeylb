@@ -38,7 +38,7 @@ user_groups:
 ---
 
 I am a statistician primarily interested in working in the areas of statistical ecology, time series modeling, Bayesian statistics and, more recently, spatial modeling of environmental data. Currently, I hold a postdoctoral position in the Department of Forestry and Environmental Resources & Department of Statistics at North Carolina State University. 
-
+ 
 Collaborative projects bring me loads of joy. So, while I am formally trained in mathematics and statistics, I'm likely to be working closely with marine biologists (esp. those who work with sharks) often and on many projects. 
 
 See my [google scholar page](https://scholar.google.com/citations?user=ldaJ_4cAAAAJ&hl=en&authuser=2) for a full list of my publications. A copy of my dissertation is accessible [here](/files/Dissertation.pdf). 
