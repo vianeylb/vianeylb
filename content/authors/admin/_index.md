@@ -30,7 +30,7 @@ social:
   link: https://twitter.com/vianey_lb
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=ldaJ_4cAAAAJ&hl=en&authuser=1
+  link: https://scholar.google.com/citations?hl=en&user=VGNhAyYAAAAJ
 superuser: true
 user_groups:
 - Researchers
