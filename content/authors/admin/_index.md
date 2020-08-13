@@ -10,7 +10,7 @@ education:
   - course: BSc in Mathematics
     institution: California State University, Bakersfield
     year: 2011
-email: "vcleosba@ncsu.edu"
+email: "vianey.leosbarajas@utoronto.ca"
 interests:
 - Statistical Ecology
 - Bayesian Statistics
@@ -18,9 +18,9 @@ interests:
 - Spatio-temporal Models
 name: Vianey Leos Barajas, PhD 
 organizations:
-- name: North Carolina State University
+- name: University of Toronto
   url: ""
-role: Postdoctoral Researcher
+role: Assistant Professor
 social:
 - icon: github
   icon_pack: fab
@@ -37,7 +37,7 @@ user_groups:
 - Visitors
 ---
 
-I am a statistician primarily interested in working in the areas of statistical ecology, time series modeling, Bayesian statistics and, more recently, spatial modeling of environmental data. Currently, I hold a postdoctoral position in the Department of Forestry and Environmental Resources & Department of Statistics at North Carolina State University. 
+I am a statistician primarily interested in working in the areas of statistical ecology, time series modeling, Bayesian statistics and, more recently, spatial modeling of environmental data. Currently, I am an Assistant Professor in the Department of Statistical Sciences and School of the Environment. 
  
 Collaborative projects bring me loads of joy. So, while I am formally trained in mathematics and statistics, I'm likely to be working closely with marine biologists (esp. those who work with sharks) often and on many projects. 
 
