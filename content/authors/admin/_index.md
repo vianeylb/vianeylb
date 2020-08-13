@@ -35,6 +35,7 @@ superuser: true
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
 I am a statistician primarily interested in working in the areas of statistical ecology, time series modeling, Bayesian statistics and, more recently, spatial modeling of environmental data. Currently, I am an Assistant Professor in the Department of Statistical Sciences and School of the Environment. 
