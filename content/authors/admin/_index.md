@@ -42,7 +42,7 @@ I am a statistician primarily interested in working in the areas of statistical 
  
 Collaborative projects bring me loads of joy. So, while I am formally trained in mathematics and statistics, I'm likely to be working closely with marine biologists (esp. those who work with sharks) often and on many projects. 
 
-See my [google scholar page](https://scholar.google.com/citations?hl=en&user=VGNhAyYAAAAJ) for a full list of my publications. A copy of my dissertation is accessible [here](/files/Dissertation.pdf). 
+See my [google scholar page](https://scholar.google.com/citations?hl=en&user=VGNhAyYAAAAJ) for a full list of my publications.
 
 
 
